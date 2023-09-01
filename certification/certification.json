@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Learn basic web programming",
+        "by": "Dicoding Academy x Baparekraf Developer Day 2023",
+        "image": "./certification/pemprograman web.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/ERZRGLWVQPYV"
+        }
+    }, 
+    {
+        "name": "Learn basic Javascript programming",
+        "by": "Dicoding Academy x DBS Foundation Coding Camp 2023",
+        "image": "./certification/web-js.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/NVP7O752VPR0"
+        }
+    }, 
+    {
+        "name": "Learn basic Cloud Practitioner Essentials",
+        "by": "Dicoding Academy x DBS Foundation Coding Camp 2023",
+        "image": "./certification/AWS.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/L4PQ6O0J7PO1"
+        }
+    }
+]
